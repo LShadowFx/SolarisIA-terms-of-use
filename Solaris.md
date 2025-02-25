@@ -12,3 +12,7 @@ ChatBot IA | Uso exclusivo de server LS - Proyect
 4. **Modificaciones de los Términos**: Nos reservamos el derecho de modificar estos términos en cualquier momento sin previo aviso. Es responsabilidad del usuario revisar periódicamente los términos para estar informado de posibles cambios.
 
 Al usar esta aplicación IA en Discord aceptas que su funcionamiento es bajo tu responsabilidad.
+
+## Políticas de Privacidad
+
+- Solaris IA no recopila, almacena ni comparte datos personales de los usuarios. Todas las interacciones se procesan en tiempo real sin retener información.
