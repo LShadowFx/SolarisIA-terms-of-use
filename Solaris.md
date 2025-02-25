@@ -1,4 +1,4 @@
-# SolarisIA-terms-of-use
+# SolarisIA - Bot Discord
 ChatBot IA | Uso exclusivo de server LS - Proyect
 
 ## Términos de Uso
